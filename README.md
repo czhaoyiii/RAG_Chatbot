@@ -1,4 +1,4 @@
-# RAG Chatbot
+# RAG Chatbot with LangChain, Pinecone, and OpenAI on Streamlit
 
 ## Prerequisites
 * Python 3.11 to 3.12.9 (DO NOT USE PYTHON 3.13)
